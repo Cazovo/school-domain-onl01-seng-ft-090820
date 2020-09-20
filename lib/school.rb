@@ -1,6 +1,6 @@
-class School.new("Bayside High School")
+class School.new(schoo_name)
   def initialize(name)
-    @name = name
+    @name = school_name
     @roster = {}
   end
   
