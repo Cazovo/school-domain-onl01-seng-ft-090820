@@ -4,4 +4,5 @@ class School.new("Bayside High School")
     @roster = {}
   end
   
-  def 
+  def add_student(name, grade)
+      
