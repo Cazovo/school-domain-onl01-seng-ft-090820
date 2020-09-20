@@ -10,5 +10,5 @@ class School.new("Bayside High School")
   school.add_student("Abbah Zabbah", 2)
   school.roster
   school.grade(9)
-school.sort
+  school.sort
 end
